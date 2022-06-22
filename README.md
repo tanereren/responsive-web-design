@@ -22,12 +22,12 @@ However, with a mobile device, the less available space means that not a lot of 
 
 600px, 900px, 1200px and 1800px – These represent the 14 most common screen sizes
 
-Ranges:
-0 – 600: Phone
-600 – 900: Tablet Portrait
-900 – 1200: Tablet Landscape
-1200 – 1800: Desktop
-1800+: Big desktop
+Ranges: 
+0 – 600: Phone  
+600 – 900: Tablet Portrait  
+900 – 1200: Tablet Landscape  
+1200 – 1800: Desktop  
+1800+: Big desktop  
 
 
 https://nextbillionusers.google/  
