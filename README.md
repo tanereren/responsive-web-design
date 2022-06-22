@@ -30,6 +30,6 @@ Ranges:
 1800+: Big desktop
 
 
-https://nextbillionusers.google/
-https://www.freecodecamp.org/news/taking-the-right-approach-to-responsive-web-design/
+https://nextbillionusers.google/  
+https://www.freecodecamp.org/news/taking-the-right-approach-to-responsive-web-design/ 
 https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/
