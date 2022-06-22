@@ -33,4 +33,3 @@ Ranges:
 https://nextbillionusers.google/
 https://www.freecodecamp.org/news/taking-the-right-approach-to-responsive-web-design/
 https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/
-![image](https://user-images.githubusercontent.com/88434986/175133741-397b43f5-9e72-4f43-86e0-d9abf4a891ac.png)
