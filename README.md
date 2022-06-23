@@ -1,6 +1,6 @@
 # Responsive Web Design
 
-Every week, millions of people come online for the first time. Google’s Next Billion Users initiative reports that the majority of people using the internet for the first time are doing so via a mobile device – not a computer, that devices are often shared with friends and family, and they tend to prefer voice and visuals over typing or reading.
+Every week, millions of people come online for the first time. Google’s Next Billion Users initiative reports that the majority of people using the internet for the first time are doing so via a mobile device – not a computer, that devices are often shared with friends and family, and that they tend to prefer voice and visuals over typing or reading.
 
 Insights such as this are important for web developers and helps explain why designing with a mobile-first approach should be the industry standard. 
 
